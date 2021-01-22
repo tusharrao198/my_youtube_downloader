@@ -1,4 +1,4 @@
-# This is a python program to downlaod youtube videos using youtube-dl.
+# This is a python program to download youtube videos using youtube-dl.
 
 Pros:-
 
