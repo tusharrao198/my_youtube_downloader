@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+ytd_file_for_making_exe.py
+*.ico
+
 # Distribution / packaging
 .Python
 build/

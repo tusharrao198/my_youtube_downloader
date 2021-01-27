@@ -4,10 +4,10 @@ block_cipher = None
 
 
 a = Analysis(['ytd.py'],
-             pathex=['C:\\Users\\Tushar\\Desktop\\ytd\\env\\Scripts\\', 'C:\\Users\\Tushar\\Desktop\\ytd\\env\\Lib\\'],
+             pathex=['C:\\Users\\Tushar\\Desktop\\ytd\\try'],
              binaries=[],
              datas=[],
-             hiddenimports=['youtube-dl'],
+             hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],
              excludes=[],
@@ -30,4 +30,4 @@ exe = EXE(pyz,
           upx=True,
           upx_exclude=[],
           runtime_tmpdir=None,
-          console=True )
+          console=True , icon='icon.ico')
